@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Scala template
+*.log
+.history
+
+.idea/
+project/
+target/
